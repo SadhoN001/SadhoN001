@@ -4,7 +4,6 @@
 <p align="center">
 💻 Passionate Backend Developer from Bangladesh <br>
 🚀 Focused on Django, APIs, and scalable systems <br>
-📸 Also interested in Photography
 </p>
 
 <p align="center"> 
