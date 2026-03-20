@@ -23,9 +23,9 @@
 
 ## 🌐 Portfolio & Resume
 - 👨‍💻 Portfolio:  
-  👉 https://sadhon001.github.io/My-Portfolio-/
+  👉 https://sadhon001.github.io/skd-portfolio/
 - 📄 Resume:  
-  👉 https://drive.google.com/file/d/1HVrQG6HSrvTzg_8Qbf09rGF2b2N7r1_O/view
+  👉 https://drive.google.com/file/d/1HVrQG6HSrvTzg_8Qbf09rGF2b2N7r1_O/view?usp=sharing
 
 ---
 
