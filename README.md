@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadhon Kumar Dev</h1>
-<h3 align="center">Backend Developer | Django | Problem Solver</h3>
+<h3 align="center">Backend Software Developer | Python & Django | Problem Solver</h3>
 
 <p align="center">
 💻 Passionate Backend Developer from Bangladesh <br>
