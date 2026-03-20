@@ -37,10 +37,10 @@
 
 ## 🌍 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/sadhon-kumar-dev" target="_blank">
+<a href="https://www.linkedin.com/in/sadhon-kumar-dev-b50256291/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://www.facebook.com/sadhon.kumar.dev" target="_blank">
+<a href="https://www.facebook.com/sadhon.kumar.dev.2025/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
 </a>
 <a href="https://www.codechef.com/users/sadhon" target="_blank">
