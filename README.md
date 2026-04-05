@@ -85,13 +85,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadhon001&layout=compact&theme=default" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sadhon001&layout=compact&bg_color=ffffff&title_color=2f80ed&text_color=333333" 
+    height="160"
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sadhon001&show_icons=true&theme=default" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sadhon001&show_icons=true&bg_color=ffffff&title_color=2f80ed&text_color=333333&icon_color=2f80ed" 
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sadhon001&theme=default" height="160"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sadhon001&background=ffffff&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00&sideLabels=333333&dates=333333" 
+    height="160"
+  />
 </p>
 
 ---
